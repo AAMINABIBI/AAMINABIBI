@@ -1,3 +1,7 @@
+
+![download (2)](https://user-images.githubusercontent.com/97452800/217350370-e8faf066-3ec7-43de-8ea8-eea7bd44cfe8.jpeg)
+
+
 - 👋 Hi, I’m AAMINA BIBI
 - 🌱 I’m currently learning Data Structure and Algorithm
 - 💞️ I’m looking to collaborate on Open source projects
