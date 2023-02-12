@@ -4,7 +4,7 @@
 
 
 
-- 👋 Hi, I’m AAMINA BIBI
+- 👋  I’m AAMINA BIBI
 - 🌱 I’m currently learning Data Structure and Algorithm
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me aaminabibi2324@gmail.com
