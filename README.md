@@ -14,6 +14,6 @@ AAMINABIBI/AAMINABIBI is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[DOWNLOAD MY RESUME](https://drive.google.com/drive/folders/1PMAdn4ISYMNNH3JgrUeQ9-IFp6bEH36C?q=type:pdf)
+  [DOWNLOAD MY RESUME 😇](https://drive.google.com/drive/folders/1PMAdn4ISYMNNH3JgrUeQ9-IFp6bEH36C?q=type:pdf)
 
 [See My Portfolio Website](https://aaminabibi.github.io/Portfolio/)
