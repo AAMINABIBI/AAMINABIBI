@@ -2,7 +2,7 @@
 # ![a2392e422a7a34281ee1960eb9ad0ee2](https://github.com/AAMINABIBI/AAMINABIBI/assets/97452800/23c40c82-760f-43cd-8168-48e0a5772816)
 💫
  About Me:
-<br>- 👋  I’m AAMINA BIBI<br>- 🌱 I’m currently web Development<br>- 💞️ I’m looking to collaborate on Open source projects<br>- 📫 How to reach me aaminabibi2324@gmail.com
+<br>- 👋  I’m AAMINA BIBI<br>- 🌱 I’m currently doing web Development<br>- 💞️ I’m looking to collaborate on Open source projects<br>- 📫 How to reach me aaminabibi2324@gmail.com
 
 
 ## 🌐 Socials:
