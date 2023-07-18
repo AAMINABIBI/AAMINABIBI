@@ -1,5 +1,6 @@
 
-# 💫![1_zm5NLjdhGd3VVTA2u-xEPg](https://github.com/AAMINABIBI/AAMINABIBI/assets/97452800/87b9b86f-78c6-4ab0-ba31-129ac8825011)
+# ![a2392e422a7a34281ee1960eb9ad0ee2](https://github.com/AAMINABIBI/AAMINABIBI/assets/97452800/23c40c82-760f-43cd-8168-48e0a5772816)
+💫
  About Me:
 <br>- 👋  I’m AAMINA BIBI<br>- 🌱 I’m currently web Development<br>- 💞️ I’m looking to collaborate on Open source projects<br>- 📫 How to reach me aaminabibi2324@gmail.com
 
