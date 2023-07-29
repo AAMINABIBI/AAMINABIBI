@@ -1,6 +1,7 @@
 
 ![download](https://github.com/AAMINABIBI/AAMINABIBI/assets/97452800/37da75db-b31e-4cb7-ae3e-e9254a85ff57)
 ![download](https://github.com/AAMINABIBI/AAMINABIBI/assets/97452800/9884c5d2-8409-404c-a484-4b3b6361684d)
+![images](https://github.com/AAMINABIBI/AAMINABIBI/assets/97452800/f861e09b-a874-4bd1-ada0-f2fdbbd38634)
 
 💫
  About Me:
