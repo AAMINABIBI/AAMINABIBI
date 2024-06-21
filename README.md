@@ -39,8 +39,7 @@
 
 
 </div> <br>
-    
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+the+tools+that+I+am+working+with..">
+   
 
 
 
