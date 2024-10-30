@@ -1,6 +1,6 @@
 
 <div align="center" >  
- <img src="https://i.pinimg.com/736x/6a/d5/d2/6ad5d2bbcaae7626d70ecaecd3497ff6.jpg" />
+ <img src="https://tse1.mm.bing.net/th/id/OIP.B0NZuseuTA7LyOTvAFyrKgHaHa?w=152&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" />
 </div>
 💫
  About Me:
