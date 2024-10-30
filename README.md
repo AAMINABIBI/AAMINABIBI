@@ -1,6 +1,6 @@
 
 <div align="center" >  
- <img src="https://github.com/AAMINABIBI/AAMINABIBI/assets/97452800/37da75db-b31e-4cb7-ae3e-e9254a85ff57" />
+ <img src="https://i.pinimg.com/736x/6a/d5/d2/6ad5d2bbcaae7626d70ecaecd3497ff6.jpg" />
 </div>
 💫
  About Me:
