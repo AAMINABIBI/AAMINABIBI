@@ -4,7 +4,7 @@
 </div>
 💫
  About Me:
-<br>- 👋  I’m AAMINA BIBI<br>- 🌱 I’m currently doing web Development<br>- 💞️ I’m looking to collaborate on Open source projects<br>- 📫 How to reach me aaminabibi2324@gmail.com
+<br>- 👋  I’m AAMINA BIBI<br>- - 💞️ I’m looking to collaborate on Open source projects<br>- 📫 How to reach me aaminabibi2324@gmail.com
 
 
    
