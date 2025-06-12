@@ -12,4 +12,4 @@
 
 
 
-[See My Portfolio Website](https://aaminabibi.github.io/Portfolio/)
+[See My Portfolio Website](https://aaminabibi.github.io/Amna-Portfolio/)
