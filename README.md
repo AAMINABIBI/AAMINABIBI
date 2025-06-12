@@ -20,9 +20,6 @@
 
 ## Hi there, I'm - [Aamina Bibi][portfolio] 👋
 
-### Nice to see you here <img alt="programmingcare.com" width="22px" margin-right="20px" src="https://cutt.ly/OCwZs7k" />
-
-[![Website]([https://img.shields.io/website?label=mdnakibul.netlify.app&style=for-the-badge&ur](https://aaminabibi.github.io/Amna-Portfolio/)l)
 
 
 ## I'm a Developer and Dreamer Who make things happen!!
