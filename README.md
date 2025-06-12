@@ -1,24 +1,11 @@
 
-<div align="center" >  
- <img src="https://tse1.mm.bing.net/th/id/OIP.B0NZuseuTA7LyOTvAFyrKgHaHa?w=152&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" />
-</div>
-💫
- About Me:
-<br>- 👋  I’m AAMINA BIBI<br>- - 💞️ I’m looking to collaborate on Open source projects<br>- 📫
 
-
-   
-
-
-
-
-[See My Portfolio Website](https://aaminabibi.github.io/Amna-Portfolio/)
 
 
 
 ![I am codding](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif?format=750w)
 
-## Hi there, I'm - [Aamina Bibi][portfolio] 👋
+## Hi there, I'm - [Aamina Bibi]👋
 
 
 
@@ -28,6 +15,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 How to reach me aaminabibi2324@gmail.com
 
+[See My Portfolio Website](https://aaminabibi.github.io/Amna-Portfolio/)
 
 
 ### Languages and Tools:
