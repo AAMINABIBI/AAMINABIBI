@@ -31,11 +31,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 How to reach me aaminabibi2324@gmail.com
 
-### Connect with me:
 
-[<img align="left" alt="[programmingcare.com](https://aaminabibi.github.io/Amna-Portfolio/)" width="22px" margin-right="20px" src="[https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg](https://aaminabibi.github.io/Amna-Portfolio/)" />][website]
-[<img align="left" alt="[programmingcare | LinkedIn](https://www.linkedin.com/in/aamina-bibi/)" width="22px" margin-right="20px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/aamina-bibi/)" />][linkedin]
-<br />
 
 ### Languages and Tools:
 
@@ -56,12 +52,6 @@
 
 <br />
 <br />
-
-[![Md Nakibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdnakibul)](https://github.com/anuraghazra/github-readme-stats)
-
-![Md Nakibul Hosen Nahid's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdnakibul&theme=darcula&hide_border=true)
-
-![Nakibul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnakibul&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 [website]: https://www.programmingcare.com/
 [portfolio]: https://mdnakibul.netlify.app/
