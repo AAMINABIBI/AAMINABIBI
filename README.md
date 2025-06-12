@@ -4,7 +4,7 @@
 </div>
 💫
  About Me:
-<br>- 👋  I’m AAMINA BIBI<br>- - 💞️ I’m looking to collaborate on Open source projects<br>- 📫 How to reach me aaminabibi2324@gmail.com
+<br>- 👋  I’m AAMINA BIBI<br>- - 💞️ I’m looking to collaborate on Open source projects<br>- 📫
 
 
    
@@ -18,32 +18,23 @@
 
 ![I am codding](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif?format=750w)
 
-## Hi there, I'm - [Md Nakibul Hosen Nahid][portfolio] 👋
+## Hi there, I'm - [Aamina Bibi][portfolio] 👋
 
 ### Nice to see you here <img alt="programmingcare.com" width="22px" margin-right="20px" src="https://cutt.ly/OCwZs7k" />
 
-[![Website](https://img.shields.io/website?label=programmingcare.com&style=for-the-badge&url=https%3A%2F%2Fprogrammingcare.com)](https://www.programmingcare.com/)
-[![Website](https://img.shields.io/website?label=mdnakibul.netlify.app&style=for-the-badge&url=https%3A%2F%2Fprogrammingcare.com)](https://mdnakibul.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/HosenNakibul?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHosenNakibul&screen_name=HosenNakibul)
+[![Website]([https://img.shields.io/website?label=mdnakibul.netlify.app&style=for-the-badge&ur](https://aaminabibi.github.io/Amna-Portfolio/)l)
+
 
 ## I'm a Developer and Dreamer Who make things happen!!
 
 - 🌱 I’m currently learning Next.js and Exploring web3
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch movies and travel
-- 📢 I have started my career as a front-end developer at [leadsbee.org][leadsbee]
-- 📢 I have work on freelance project with [Drivill][drivill] as a front-end developer
-- 📢 I have work with [programming hero][programminghero] as a MERN stack developer under end game project
-- 📢 Currently I am working as Full stack developer in [Alpha OBS LLP][aobs]
+- 🥅 How to reach me aaminabibi2324@gmail.com
 
 ### Connect with me:
 
-[<img align="left" alt="programmingcare.com" width="22px" margin-right="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Md Nakibul Hosen | Twitter" width="22px" margin-right="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="programmingcare | LinkedIn" width="22px" margin-right="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="programmingcare | Instagram" width="22px" margin-right="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="programmingcare | YouTube" width="22px" margin-right="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="[programmingcare.com](https://aaminabibi.github.io/Amna-Portfolio/)" width="22px" margin-right="20px" src="[https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg](https://aaminabibi.github.io/Amna-Portfolio/)" />][website]
+[<img align="left" alt="[programmingcare | LinkedIn](https://www.linkedin.com/in/aamina-bibi/)" width="22px" margin-right="20px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/aamina-bibi/)" />][linkedin]
 <br />
 
 ### Languages and Tools:
